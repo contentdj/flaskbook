@@ -1,5 +1,4 @@
+
 SECRET_KEY = 'you-will-never-guess'
-DEBUG = TRUE
-
+DEBUG = True
 MONGODB_DB = 'flaskbook'
-
