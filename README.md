@@ -1,1 +1,1 @@
-# How to create a professional Python Flask DEV  Enviorement and keep PRODUCTION AND DEV syncronyzed
+# Create  Professional DEV and PROD env for Python Flask with Blueeprints and GitHub
