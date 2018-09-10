@@ -1,0 +1,8 @@
+# Ignore file named `README.txt`
+#README.txt
+
+#Ignore folder named venv
+venv/
+
+#Ignore all .java files
+#.java
