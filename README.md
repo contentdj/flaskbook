@@ -1,0 +1,1 @@
+# How to create a professional Python Flask DEV  Enviorement and keep PRODUCTION AND DEV syncronyzed
